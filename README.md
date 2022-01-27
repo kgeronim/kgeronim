@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Kevin.
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning new web frameworks and Rustlang.
+- 🌱 I’m currently learning new web frameworks, algorithms and Rustlang.
 - 💞️ I’m looking to collaborate on bigger projects.
 - 📫 You can reach me at contact@kevingeronimo.com
 
