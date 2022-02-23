@@ -2,7 +2,9 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning new web frameworks, algorithms and Rustlang.
 - 💞️ I’m looking to collaborate on bigger projects.
+- ⏳ Past projects I no longer support: [cbpro](https://crates.io/crates/cbpro) and [tokio-binance](https://crates.io/crates/tokio-binance).
 - 📫 You can reach me at contact@kevingeronimo.com
+
 
 <!---
 kevingeronimo/kevingeronimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
