@@ -1,8 +1,8 @@
 - 👋 Hey, I’m Kevin.
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on bigger projects.
-- ⏳ Abandoned projects: [cbpro](https://crates.io/crates/cbpro) and [tokio-binance](https://crates.io/crates/tokio-binance).
+- 🌱 I’m currently learning WebAssembly.
+- 💞️ I’m looking to collaborate on Rust projects.
+- ⏳ A bit Rusty on my Rust so picking it back up after 1.75.0
 - 📫 You can reach me at kevin.geronimo@outlook.com.
 
 
