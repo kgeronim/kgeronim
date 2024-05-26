@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently learning WebAssembly.
 - 💞️ I’m looking to collaborate on Rust projects.
-- ⏳ A bit Rusty on my Rust so picking it back up after 1.75.0
+- ⏳ Currently working on creating a tax document creation website using only Rust.
 - 📫 You can reach me at kevin.geronimo@outlook.com.
 
 
